@@ -202,5 +202,6 @@
 //Console.WriteLine("1.Calcular el área del cuadrado");
 //Console.WriteLine("2.Calcular el volumen del cubo");
 //Console.WriteLine("3.Salir");
+//Console.WriteLine("4.cambio");
 
 //opcion = C
